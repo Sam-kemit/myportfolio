@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"Samuel Kueta",
+    "occupation":"Software engineer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here's where you need to write your message for me to get in touch with you.",
+    "email": "samuel.kueta@gmail.com",
+    "phone": "(+33) 0781492956",
+    "address":{
+      "street":"8 Boulevard Calmette",
+      "city":"Mantes-La-Jolie",
+      "state":"Yvelines",
+      "zip": "78200"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/samuel.kueta.5",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/samuel-kueta-930a92112/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/exoussia_sk/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Sam-kemit",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Sorbonne",
+        "degree":"3-years master degree in Computer Science & Electronic Engineering",
+        "graduated":"2017-2020",
+        "description":"Polytech SORBONNE, The speciality trains engineers specialising in electronic-computer systems (embedded, connected objects, intelligent systems, etc.) through apprenticeship. The pedagogy is based on the realisation of concrete applications through academic projects (a quarter of the hourly volume) and missions carried out in companies. These become more complex as the apprentice progresses and becomes more autonomous."
+      },
+      {
+        "school":"University of Lorraine",
+        "degree":"2-years technical University degree in Network and Telecommunications",
+        "graduated":"2015-2017",
+        "description":"IUT Nancy-BRABOIS, I learned how to install, maintain and administer corporate computer networks, how to deploy telecom infrastructures of telephone operators and Internet Service Providers, Optical fiber, 4G/5G, WIFI, Internet, Cloud, Cybersecurity, Datacenter."
+      },
+      {
+        "school":"High School",
+        "degree":"3-years technical high school",
+        "graduated":"2012-2014",
+        "description":"IMIL, Luanda-ANGOLA, Three years of studies in electronics and telecommunications in which I learned fundamental knowledge of this profession and prepared me for further studies in the major technological universities."
+      }
+    ],
+    "work":[
+      {
+        "company":"Renault SAS",
+        "title":"Automation Engineering Apprentice",
+        "years":"October 2017 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Kimpa-Society",
+        "title":"CEO and copywriter",
+        "years":"March 2020 - Present",
+        "description":"The love of entrepreneurship drove me to launch this brand. Kimpa-Society is a small web and mobile application development company that I realize freelance."
+      },
+      {
+        "company":"Santerne Est Telecoms",
+        "title":"Telecom technician traineeship",
+        "years":"April 2017 - June 2017",
+        "description":"Configurated network equipment, organized network equipment for field technicians, established a shedule."
+      }
+    ],
+    "skills":[
+      {
+        "name":"NodeJS",
+        "level":"60%"
+      },
+      {
+        "name":"Express",
+        "level":"55%"
+      },
+      {
+        "name":"C#",
+        "level":"50%"
+      },
+      {
+        "name":"PHP",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"HTML & CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"80%"
+      },
+      {
+        "name":"React Native",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL & MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Network security",
+        "level":"80%"
+      },
+      {
+        "name":"Project management",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"If my mind can conceive it, if my heart can believe it --then I can achieve it.",
+        "user":"Muhammad Ali"
+      },
+      {
+        "text":"Seek to perform your duties to your highest ability, this way your actions will be blameless.",
+        "user":" Ancient Egyptians -- KEMET"
+      }
+    ]
+  }
+}
