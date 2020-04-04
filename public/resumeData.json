@@ -4,7 +4,7 @@
     "occupation":"Software engineer",
     "description":"I bring the skills of a full-stack javascript developer. Optimistic and creative, I'm passionate about home automation and IoT and I'm freelance in my spare time.",
     "image":"profilepic.png",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Young graduate in computer science and industrial electronics, but with a consolidated experience and an entrepreneurial spirit due to my 3 years of apprenticeship within the large global automotive group <Renault SAS>. \nDuring these 3 years, I learned how to develop, test and maintain HIMs and web applications. All these experiences allowed me to understand the IT business and to discover my passion for web development. \nOutside of professional life, I am a big football fan and love to discover the unknown (new cultures, history and countries).",
     "contactmessage":"Here's where you need to write your message for me to get in touch with you.",
     "email": "samuel.kueta@gmail.com",
     "phone": "(+33) 0781492956",
@@ -15,7 +15,7 @@
       "zip": "78200"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"cv_sk.pdf",
     "social":[
       {
         "name":"facebook",
