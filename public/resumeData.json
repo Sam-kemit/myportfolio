@@ -70,19 +70,20 @@
         "company":"Renault SAS",
         "title":"Automation Engineering Apprentice",
         "years":"October 2017 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, \n\nand anything else that would be useful for an employer to know."
+        "description1":"Describe work, special projects, notable achievements, what technologies you have been working with, \n\nand anything else that would be useful for an employer to know.",
+        "description2":"shdfgvsfklvnl"
       },
       {
         "company":"Kimpa-Society",
         "title":"CEO and copywriter",
         "years":"March 2020 - Present",
-        "description":"The love of entrepreneurship drove me to launch this brand. Kimpa-Society is a small web and mobile application development company that I realize freelance."
+        "description1":"The love of entrepreneurship drove me to launch this brand. Kimpa-Society is a small web and mobile application development company that I realize freelance."
       },
       {
         "company":"Santerne Est Telecoms",
         "title":"Telecom technician traineeship",
         "years":"April 2017 - June 2017",
-        "description":"Configurated network equipment, organized network equipment for field technicians, established a shedule."
+        "description1":"Configurated network equipment, organized network equipment for field technicians, established a shedule."
       }
     ],
     "skills":[
