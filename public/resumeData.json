@@ -70,21 +70,19 @@
         "company":"Renault SAS",
         "title":"Automation Engineering Apprentice",
         "years":"October 2017 - Present",
-        "description1": "Proposal of new architectures based on IO-Link sensors: OPC UA, Profinet, Ethernet/IP.",
-        "description2":"Validation of technical solutions dedicated to data capture (IO-Link Master, old RS485 machines through OPC UA server).",
-        "description3":"Project management: Identification of user needs, implementation of solutions, followed by requests to subcontractors or in-house design and development, drafting of technical and functional specifications."
+        "description1":"Describe work, special projects, notable achievements, what technologies you have been working with\r\n, and anything else that would be useful for an employer to know."
       },
       {
         "company":"Kimpa-Society",
         "title":"CEO and copywriter",
         "years":"March 2020 - Present",
-        "description1":"The love of entrepreneurship drove me to launch this brand. Kimpa-Society is a small web and mobile application development company that I realize freelance."
+        "description":"The love of entrepreneurship drove me to launch this brand. Kimpa-Society is a small web and mobile application development company that I realize freelance."
       },
       {
         "company":"Santerne Est Telecoms",
         "title":"Telecom technician traineeship",
         "years":"April 2017 - June 2017",
-        "description1":"Configurated network equipment, organized network equipment for field technicians, established a shedule."
+        "description":"Configurated network equipment, organized network equipment for field technicians, established a shedule."
       }
     ],
     "skills":[
