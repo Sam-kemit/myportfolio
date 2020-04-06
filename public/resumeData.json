@@ -70,8 +70,9 @@
         "company":"Renault SAS",
         "title":"Automation Engineering Apprentice",
         "years":"October 2017 - Present",
-        "description1":"Describe work, special projects, notable achievements, what technologies you have been working with, \n\nand anything else that would be useful for an employer to know.",
-        "description2":"shdfgvsfklvnl"
+        "description1": "Proposal of new architectures based on IO-Link sensors: OPC UA, Profinet, Ethernet/IP.",
+        "description2":"Validation of technical solutions dedicated to data capture (IO-Link Master, old RS485 machines through OPC UA server).",
+        "description3":"Project management: Identification of user needs, implementation of solutions, followed by requests to subcontractors or in-house design and development, drafting of technical and functional specifications."
       },
       {
         "company":"Kimpa-Society",
